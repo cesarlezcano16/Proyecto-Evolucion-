@@ -1,0 +1,103 @@
+*{
+ background: #3ca55c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3ca55c, #b5ac49); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3ca55c, #b5ac49); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ font-size: 100%; 
+ font-size: 112%; 
+ ont-size: 120%; 
+}
+img{
+width:400px; 
+float:left;
+padding-right:30px;
+padding-bottom:10px;
+background:black;
+}	
+p{
+color:black;
+font-family: Arial;
+font-size: 20px;
+line-height:40px;
+}
+header{
+background:url(bane.jpg)no-repeat;
+background-size:cover;
+height:250px;
+overflow:hidden;
+width:100%;
+}
+h1{
+color:black; 
+font-size:60px;
+padding:20px ; 
+font-family:georgian;
+
+
+}
+h2{
+font-size: 40px;
+line-height:40px;
+font-family: Arial black
+}
+h3{
+font-size: 20px;
+line-height:40px;
+font-family: Arial black
+}
+h4{
+font-size: 20px;
+line-height:40px;
+font-family: Arial black
+}
+h5{
+font-size: 20px;
+line-height:40px;
+font-family: Arial black
+}
+h6{
+font-size: 20px;
+line-height:40px;
+font-family: Arial black
+}
+h7{
+font-size: 20px;
+line-height:40px;
+font-family: Arial black;
+}
+h8{
+font-size: 20px;
+line-height:40px;
+font-family: Arial black;
+color:black; 
+}
+ol{
+font-size: 20px;
+line-height:40px;
+font-family: Arial;
+}
+
+a{
+color:red;
+font-size:20px;
+font: oblique bold 120% cursive;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
